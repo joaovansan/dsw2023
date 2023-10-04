@@ -1,5 +1,6 @@
 export default function Courses() {
     return (
+        
 <main className="grid gap-4 md:grid-cols-2">
   <div className="sm:col-span-2 mt-4 text-center text-white">
     <h2 id="cursos"> CONHEÇA NOSSOS CURSOS</h2>
