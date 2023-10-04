@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
         
-<footer id="contato" className="mt-8">
+<footer id="contato" className="mt-8 text-[#00e77f]">
   <div className="flex justify-center text-lg text-center space-x-4">
     <a href="https://www.facebook.com">
       <svg
