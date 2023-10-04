@@ -3,15 +3,15 @@ export default function Courses() {
         
 <main className="grid gap-4 md:grid-cols-2">
   
-  <div className="sm:col-span-2 mt-4 text-center text-white">
-    <h2 id="cursos"> CONHEÇA NOSSOS CURSOS</h2>
+  <div className="sm:col-span-2 mt-4 text-center">
+    <h2 id="cursos"> CONHEÇA NOSSOS CURSOS </h2>
   </div>
 
   <div className="bg-[#4d4d4d] rounded-md pb-2 grid-cols-3">
     <a href="curso_html.html">
       <img src="/img/html.svg" alt="" />
       <div className="text-white text-center">
-        <h3>Curso de HTML</h3>
+        <h3>Curso de HTML </h3>
         <p>O curso é realizado por profissionais...</p>
       </div>
     </a>
@@ -50,7 +50,7 @@ export default function Courses() {
     <a href="curso_games.html">
       <img src="/img/games.svg" alt="" />
       <div className="text-white text-center">
-        <h3>Curso de GAMES</h3>
+        <h3>Curso de Jogos Digitais </h3>
         <p>O curso é realizado por profissionais...</p>
       </div>
     </a>
