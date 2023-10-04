@@ -1,4 +1,4 @@
-export default function Courses() {
+export default function Footer() {
     return (
         
 <footer id="contato" className="mt-8">
@@ -45,7 +45,7 @@ export default function Courses() {
     </svg>
   </div>
   <div className="text-center text-white border-t border-[green] mt-2">
-    <p>Copyright UTFPR 2023 By alunos Desenvolvimento de sistemas web</p>
+    <p> Copyright UTFPR 2023 By alunos Desenvolvimento de sistemas web </p>
   </div>
 </footer>
 

@@ -6,7 +6,7 @@ export default function Header() {
       className="text-center text-white pt-2 border-b border-[green] md:flex itens-center justify-between"
     >    
         <h4 className="text-[#00e77f] bg-[black] pt-[8px] pb-2 py-8">
-        🏫UTFTECH - ESCOLA DE INFORMATICA📘
+        🏫 UTFTECH - ESCOLA DE INFORMATICA 📘
       </h4>
 
       <nav className="text-[white] bg-[black] pt-[8px] pb-2">

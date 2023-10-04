@@ -46,7 +46,7 @@ export default function Courses() {
       <img src="/img/games.svg" alt="" />
       <div className="text-white text-center">
         <h3>Curso de GAMES</h3>
-        <p>O curso é realizado por profissionais duvidosos...</p>
+        <p>O curso é realizado por profissionais...</p>
       </div>
     </a>
   </div>
@@ -55,7 +55,7 @@ export default function Courses() {
       <img src="/img/robot.svg" alt="" />
       <div className="text-white text-center">
         <h3>Curso de ROBOTICA</h3>
-        <p>O curso é realizado por profissionais duvidosos...</p>
+        <p>O curso é realizado por profissionais...</p>
       </div>
     </a>
   </div>
