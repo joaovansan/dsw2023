@@ -1,7 +1,7 @@
 export default function Banner() {
     return (
 
-<div className="md:flex items-center flex-row-reverse">
+<div className="md:flex items-center flex-row-reverse bg-[#4d4d4d]">
   <div className="basis-1/2">
     <img src="/img/banner.svg" alt="Descrição da Imagem" />
   </div>
