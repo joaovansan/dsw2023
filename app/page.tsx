@@ -1,7 +1,19 @@
+import Banner from "./components/Banner"
+import Courses from "./components/Courses"
+import Header from "./components/Header"
 export default function Home() {
   return (
+    <div>
+        <Header/>
 
-    <h1 className="text-center color-white">  UTFTECH - A MELHOR ESCOLA DE INFORMATICA  </h1>
+        <Banner/>
+
+        <Courses/>
+
+        <footer/>
+
+    </div>
+    
   )
 
 
