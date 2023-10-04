@@ -6,7 +6,7 @@ export default function Banner() {
     <img src="/img/banner.svg" alt="Descrição da Imagem" />
   </div>
   
-  <div className="basis-1/2 text-center text-[#00e77f]">
+  <div className="basis-1/2 text-center text-[#00e77f] bg-[black]">
     <h2>UTFTEC</h2>
     <h3>A MELHOR ESCOLA DE INFORMÁTICA</h3>
     <a
