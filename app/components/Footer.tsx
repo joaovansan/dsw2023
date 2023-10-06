@@ -1,11 +1,11 @@
 export default function Footer() {
     return (
         
-<footer id="contato" className="mt-8 color-[#00e77f] space-x-4">
-  <div className="flex justify-center text-lg text-center ">
+<footer id="contato" className="mt-8 ">
+  <div className="flex justify-center text-lg text-center color-[#00e77f] space-x-4">
     <a href="https://www.facebook.com">
       <svg
-        fill="white"
+        
         xmlns="http://www.w3.org/2000/svg"
         height="1em"
         viewBox="0 0 512 512"
@@ -16,7 +16,7 @@ export default function Footer() {
     </a>
     <a href="https://instagram.com">
       <svg
-        fill="white"
+        
         xmlns="http://www.w3.org/2000/svg"
         height="1em"
         viewBox="0 0 448 512"
@@ -27,7 +27,7 @@ export default function Footer() {
     </a>
     
     <svg
-      fill="white"
+      
       xmlns="http://www.w3.org/2000/svg"
       height="1em"
       viewBox="0 0 512 512"
@@ -37,7 +37,7 @@ export default function Footer() {
     </svg>
     
     <svg
-      fill="white"
+     
       xmlns="http://www.w3.org/2000/svg"
       height="1em"
       viewBox="0 0 576 512"
