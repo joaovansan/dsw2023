@@ -1,8 +1,8 @@
 export default function Footer() {
     return (
         
-<footer id="contato" className="mt-8 ">
-  <div className="flex justify-center text-lg text-center space-x-4 color-[#00e77f]">
+<footer id="contato" className="mt-8 color-[#00e77f] space-x-4">
+  <div className="flex justify-center text-lg text-center ">
     <a href="https://www.facebook.com">
       <svg
         fill="white"
@@ -49,7 +49,7 @@ export default function Footer() {
   </div>
 
   <div className="text-center text-[#00e77f] border-t border-[green] mt-2">
-    <p> Copyright UTFPR 2023 By alunos Desenvolvimento de sistemas web </p>
+    <p> Copyright UTFPR 2023 By alunos Desenvolvimento de sistemas Web </p>
   </div>
 
 </footer>

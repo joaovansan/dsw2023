@@ -63,8 +63,11 @@ export default function Courses() {
         <h3>Curso de ROBOTICA</h3>
         <p>O curso é realizado por profissionais...</p>
       </div>
+      
     </a>
+
   </div>
+
 </main>
     )
     }
