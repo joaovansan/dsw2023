@@ -50,10 +50,10 @@ export default function Footer() {
     
     </svg>
     </a>
-    
+
   </div>
 
-  <div className="text-center text-[#00e77f] border-t border-[green] mt-2">
+  <div className="text-center border-t border-[green] mt-2">
     <p> Copyright UTFPR 2023 By alunos Desenvolvimento de sistemas Web </p>
   </div>
 

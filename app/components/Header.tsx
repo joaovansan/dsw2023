@@ -3,7 +3,7 @@ export default function Header() {
   
         <div>
         <header
-      className="text-center text-white pt-2 md:flex itens-center justify-between"
+      className="text-center bg-[black] pt-2 md:flex itens-center justify-between"
     >    
         <h4 className="text-[#00e77f] bg-[black] pt-[8px] pb-2 py-8">
         🏫 UTFTECH - ESCOLA DE INFORMATICA 📘
