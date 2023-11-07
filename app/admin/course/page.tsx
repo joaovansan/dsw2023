@@ -1,3 +1,5 @@
+
+
 export default async function ListCourse(){
     const ( rows ) = await sql'SELECT * from courses'; 
     return (
