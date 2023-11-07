@@ -1,7 +1,7 @@
 import './globals.css'
 import type { Metadata } from 'next'
 /* importar fontes necessario prova */
-/* para usar a fonte $(nome_fonte)
+/* para usar a fonte $(nome_fonte)*/
 import { Inter } from 'next/font/google'
 
 const inter = Inter({ subsets: ['latin'] })
